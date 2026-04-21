@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #test
+#한번더 간단히 수정
 from setuptools import find_packages, setup
 
 import os
